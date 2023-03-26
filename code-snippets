@@ -1,0 +1,35 @@
+<div class="gtb-side-bar">
+    <div class="news-box" id="featured-box">
+		<div class="news-box-content">
+            <div style="float:left; width:auto;">
+			<!--<h3>Next Trade Mission</h3>
+			<p style="font-size:16px; color:#000000;"><strong>Mexico<br></strong>
+			 May 2023
+			 <br>
+			 Registration Deadline: TBD</p>
+			
+      <a href="/images/GTB_UK_2021v5.pdf" target="_blank" style="border:none; text-decoration: none; padding:none; margin:none;"><img src="/images/GTB_UK_2021v5.jpg" width="250px" alt="Trade Mission: Mexico" style="float:none; display:block; margin-bottom:10px"></a>
+			
+               
+              <a href="/images/GTB_UK_2021v5.pdf" target="_blank" style="border:none; text-decoration: none; padding:none; margin:none;"><button type="button" class="gtb-button">Download Flyer</button></a> 
+              
+            </div>
+        </div>-->
+
+        <h3>Next Trade Mission</h3>
+			<div class="gtb-mini-box">
+			<img src="../images/Right-Rail-Mexico-City-Trade-Mission-2023-FINAL-Marketing-Brochure_Page_1.jpg" style="width:17%; border:none; display: inline-block" alt="Mexico City trade mission brochure page 	"/>
+				<div class="gtb-box-text">
+					<p style="font-size:16px; color:#000000;"><strong>Trade Mission: Mexico</strong><br>
+					May 2023<br />
+					Registration Deadline: March 15, 2023
+					</p>
+			<a href="../images/Mexico-City-Trade-Mission-2023-FINAL-Marketing-Brochure-Web.pdf" target="_blank" style="border:none; text-decoration: none; padding:none; margin:none;"><button type="button" class="gtb-button">Download the Mission Flyer</button></a>
+				<br> 
+      <p>&nbsp</p>
+        </div>
+			
+			
+			</div>
+       
+        <div class="clearfix">  <hr></div>
